@@ -1,2 +1,2 @@
-# personal
-Any personal projects I am working on
+# Ruby Hangman
+Source code for a hangman game written in Ruby and based on elite football managers.
